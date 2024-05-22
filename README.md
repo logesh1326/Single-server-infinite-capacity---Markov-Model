@@ -19,10 +19,10 @@ This is a queuing model in which the arrival is Marcovian and departure distribu
 
 
 ## Experiment:
+![image](https://github.com/logesh1326/Single-server-infinite-capacity---Markov-Model/assets/153622874/344030a5-77f5-4f51-b705-7341f20563af)
 
 
- 
-## Program
+ ## Program
 ```
 Developed By: LOGESH S
 Register No: 2305001014
