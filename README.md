@@ -27,7 +27,8 @@ This is a queuing model in which the arrival is Marcovian and departure distribu
 Developed By: LOGESH S
 Register No: 2305001014
 ```
-![Uploading image.png…]()
+![image](https://github.com/logesh1326/Single-server-infinite-capacity---Markov-Model/assets/153622874/54a3d12a-c220-4af0-b505-c8397a9d55a9)
+
 
 
 
